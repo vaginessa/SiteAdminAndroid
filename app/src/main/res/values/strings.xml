@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Site favorit-3.biz.ua admin</string>
+    <string name="title_activity_work_product_activite">WorkProductActivite</string>
+    <string name="name_product">Название продукта</string>
+    <string name="content_product">Описание продукта</string>
+    <string name="add_product">Добавление продукта</string>
+    <string name="edit_product">Редактирование продукта</string>
+    <string name="price_product">Цена</string>
+    <string name="count_product">Количество</string>
+    <string name="photo_product">Фото продукта</string>
+    <string name="availability_product">Наличие</string>
+    <string name="button_add_product">Добавить продукт</string>
+    <string name="button_back_menu">Назад в немю</string>
+    <string name="button_edit_product">Редактировать</string>
+    <string name="button_delete_product">Удалить</string>
+</resources>
